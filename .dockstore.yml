@@ -8,3 +8,4 @@ workflows:
        - orcid:  0000-0002-1983-4588
      testParameterFiles:
        - /Dockstore-job-url.yml     
+     readMePath: README.md
